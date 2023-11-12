@@ -1,0 +1,19 @@
+{
+  "name": "GBTCoin expired",
+  "description": "1$ DSGD expired voucher",
+  "image": "https://raw.githubusercontent.com/kjain811/NFT-META/main/GBTCoinExpired.png",
+  "attributes": [
+    {
+      "trait_type": "Value",
+      "value": "0"
+    },
+    {
+      "trait_type": "IssueValue",
+      "value": "1"
+    },
+    {
+      "trait_type": "ExpiryTime",
+      "value": "2024-12-12T23:59:59+08:00"
+    }
+  ]
+}
