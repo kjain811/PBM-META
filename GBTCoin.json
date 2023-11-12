@@ -1,0 +1,19 @@
+{
+  "name": "GBTCoin",
+  "description": "1$ GSGD voucher",
+  "image": "https://raw.githubusercontent.com/kjain811/NFT-META/c609b107d698321be176952e43cf651b1f39fa08/Coin.png",
+  "attributes": [
+    {
+      "trait_type": "Value",
+      "value": "1"
+    },
+    {
+      "trait_type": "IssueValue",
+      "value": "1"
+    },
+    {
+      "trait_type": "ExpiryTime",
+      "value": "2024-12-12T23:59:59+08:00"
+    }
+  ]
+}
