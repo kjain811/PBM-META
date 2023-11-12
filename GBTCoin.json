@@ -1,7 +1,7 @@
 {
   "name": "GBTCoin",
-  "description": "1$ GSGD voucher",
-  "image": "https://raw.githubusercontent.com/kjain811/NFT-META/c609b107d698321be176952e43cf651b1f39fa08/Coin.png",
+  "description": "1$ DSGD voucher",
+  "image": "https://raw.githubusercontent.com/kjain811/NFT-META/main/GBTCoin.png",
   "attributes": [
     {
       "trait_type": "Value",
